@@ -28,6 +28,8 @@ description: "Atlantida (French: L'Atlantide) is a French novel by Pierre Benoit
   \ the French Academy. The English translation of Atlantida was first published in\
   \ the United States as a serial in Adventure magazine.\nThe story inspired many\
   \ films.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14301#Atlantida
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-12-08'
 gutenberg_type: Text
